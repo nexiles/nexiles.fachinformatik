@@ -2,8 +2,8 @@
 nexiles.fachinformatik
 ======================
 
-:Author: nexiles GmbH
-:Date:   2012-09-03
+:Autor: nexiles GmbH
+:Datum: 03.09.2012
 
 
 Einleitung

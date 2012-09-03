@@ -1,22 +1,24 @@
-.. nexiles.fachinformatik documentation master file, created by
-   sphinx-quickstart on Mon Sep  3 11:44:27 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+======================
+nexiles.fachinformatik
+======================
 
-Welcome to nexiles.fachinformatik's documentation!
-==================================================
+:Autor:  nexiles GmbH
+:Datum:  03.09.2012
 
-Contents:
+
+Inhalt
+======
 
 .. toctree::
    :maxdepth: 2
 
 
 
-Indices and tables
-==================
+Indizes und Tabellen
+====================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
+.. vim: set ft=rst ts=4 sw=4 expandtab tw=78 :
