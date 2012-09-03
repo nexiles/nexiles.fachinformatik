@@ -13,6 +13,7 @@ Inhalt
   :maxdepth: 3
 
   ihk/index
+  nexiles/index
   projekte/index
 
 
