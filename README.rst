@@ -11,9 +11,9 @@ Einleitung
 
 Dies ist das nexiles.fachinformatik Repository.
 
-Es beinhaltet den IHK Ausbildungsrahmenplan, beschreibt die Projekte um
-Lerninhalte aus dem Rahmenplan zu vermitteln und definiert die
-Zieldefinitionen.
+Es beinhaltet unter Anderem den IHK Ausbildungsrahmenplan, beschreibt die
+Projekte um Lerninhalte aus dem Rahmenplan zu vermitteln und definiert die
+Ziele die erreicht werden müssen.
 
 Alle ausbildungsspezifischen Inhalte können in diesem Repository gesammelt
 werden.
