@@ -10,8 +10,9 @@ Inhalt
 ======
 
 .. toctree::
-   :maxdepth: 2
+  :maxdepth: 2
 
+  ihk/index
 
 
 Indizes und Tabellen
