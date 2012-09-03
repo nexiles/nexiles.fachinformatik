@@ -53,8 +53,16 @@ Schnellstart
 Links
 =====
 
-IHK: http://www.weingarten.ihk.de
-Sphinx: http://sphinx.pocoo.org
-restructuredText: http://sphinx.pocoo.org/rest.html
+**nexiles.fachinformatik Repository**
+    https://github.com/nexiles/nexiles.fachinformatik
+
+**IHK**
+    http://www.weingarten.ihk.de
+
+**Sphinx**
+    http://sphinx.pocoo.org
+
+**restructuredText**
+    http://sphinx.pocoo.org/rest.html
 
 ..  vim: set ft=rst tw=75 nocin nosi ai sw=4 ts=4 expandtab:
