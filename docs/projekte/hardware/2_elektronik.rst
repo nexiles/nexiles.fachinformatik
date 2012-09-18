@@ -23,6 +23,7 @@ Rahmenplan Ziele
 
 Mögliche Richtlernziele des Ausbildungsrahmenplans:
 
+XXX. TBD
 
 
 Projekt Ziele
