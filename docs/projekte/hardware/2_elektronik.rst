@@ -31,7 +31,7 @@ Projekt Ziele
 
 1. Grundlagen zur Elektronik verstehen:
 
-    - Was ist Strom, Spannung und Wiederstand?
+    - Was ist Strom, Spannung und Widerstand?
     - Ohmsches Gesetz?
 
 2. Die wichtigsten elektrischen und elektronischen Bauteile:

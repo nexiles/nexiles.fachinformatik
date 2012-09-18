@@ -15,6 +15,7 @@ Inhalt
   ihk/index
   nexiles/index
   projekte/index
+  azubi/index.rst
 
 
 Indizes und Tabellen
