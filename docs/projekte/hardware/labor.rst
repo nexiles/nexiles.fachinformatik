@@ -46,7 +46,7 @@ Projekt Ziele
 
 3. Alle benötigten Komponenten wurden aufgebaut und sind betriebsbereit.
 
-4. Alle Komponenten wurden inventorisiert
+4. Alle Komponenten wurden inventarisiert
 
 5. Das Labor wurde unter Berücksichtigung von Sicherheit, Gesundheits,- und
    Umweltschutz eingerichtet.
@@ -55,5 +55,18 @@ Projekt Ziele
 
     a) fehldende Komponenten zu besorgen
     b) Komponenten nachzubestellen
+
+
+Projektlinks
+============
+
+Meilenstein 1: Hardwarelabor
+https://github.com/nexiles/nexiles.fachinformatik/issues?milestone=1
+
+Requirements
+------------
+
+https://github.com/nexiles/nexiles.fachinformatik/issues?labels=REQUIREMENT&milestone=1
+
 
 .. vim: set ft=rst ts=4 sw=4 expandtab tw=78 :
