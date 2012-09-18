@@ -25,6 +25,7 @@ Ihnalt
 .. toctree::
   :maxdepth: 2
 
-  labor
+  1_labor
+  2_elektronik
 
 .. vim: set ft=rst ts=4 sw=4 expandtab tw=78 :

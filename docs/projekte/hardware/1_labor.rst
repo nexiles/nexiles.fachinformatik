@@ -56,6 +56,8 @@ Projekt Ziele
     a) fehldende Komponenten zu besorgen
     b) Komponenten nachzubestellen
 
+7. Eine Dokumentation wurde erstellt und im Asubildungsordner abgelegt
+
 
 Projektlinks
 ============
