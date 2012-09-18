@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
-DROPBOX       = ~/Dropbox/Public/nexiles.fachinformatik
+DROPBOX       = /Users/rbartl/Dropbox/Public/nexiles.fachinformatik
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -50,7 +50,7 @@ html:
 public: html
 	echo "Copying to Dropbox ..."
 	mkdir -p "$(DROPBOX)"
-	cp -a $(BUILDDIR)/html/* $(DROPBOX)
+	cp -r $(BUILDDIR)/html/* $(DROPBOX)
 
 preview:
 	open _build/html/index.html
