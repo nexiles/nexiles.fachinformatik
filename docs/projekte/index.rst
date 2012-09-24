@@ -25,7 +25,7 @@ Themen
 .. toctree::
   :maxdepth: 2
 
-  hardware/index
-  programmiersprachen/index
+  A_Hardware/index
+  B_Programmiersprachen/index
 
 .. vim: set ft=rst ts=4 sw=4 expandtab tw=78 :
