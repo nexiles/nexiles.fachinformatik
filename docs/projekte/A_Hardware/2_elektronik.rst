@@ -1,3 +1,4 @@
+.. _2_elektronik:
 =============
 2. Elektronik
 =============
@@ -33,6 +34,11 @@ Projekt Ziele
 
     - Was ist Strom, Spannung und Widerstand?
     - Ohmsches Gesetz?
+
+1.1 Aufgaben:
+
+    - :doc:`Aufgaben/2_1`
+
 
 2. Die wichtigsten elektrischen und elektronischen Bauteile:
 

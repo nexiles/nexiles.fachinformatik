@@ -18,6 +18,7 @@ Inhalt
 .. toctree::
   :maxdepth: 2
 
+  planung
   themen
 
 .. vim: set ft=rst ts=4 sw=4 expandtab tw=78 :
