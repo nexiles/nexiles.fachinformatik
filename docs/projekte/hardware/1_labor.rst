@@ -1,6 +1,6 @@
-==============
-Hardware Labor
-==============
+=================
+1. Hardware Labor
+=================
 
 :Autor:  nexiles GmbH
 :Datum:  03.09.2012
