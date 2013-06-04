@@ -20,23 +20,25 @@ And we alse know, that by a discount of a dime 15 people
 more come.
 ==> p1(120/500)   p2(135/490)
 
-It is: y = mx+b
-m = 490 - 500 / 135 - 120 = -2/3
-p1 and m in y = mx + b
-500 = -2/3(120) + b
-b = 580
-ticket-price = -2/3*nummber-of-attendes + 580
-nummber-of-attendes = (ticket-price-580)/(-2/3)
+It is:: 
 
-``
-;;nummber-of-attendes : number -> number
-;;to coumpute the nummber of attendes in ref to the ticket price
-;;the function takes the ticket price in dollar.
-;;this function applies just for a ticket price <= 5.8 Dollar.
-(define (nummber-of-attendes ticket-price)
+  y = mx+b
+  m = 490 - 500 / 135 - 120 = -2/3
+  p1 and m in y = mx + b
+  500 = -2/3(120) + b
+  b = 580
+  ticket-price = -2/3*nummber-of-attendes + 580
+  nummber-of-attendes = (ticket-price-580)/(-2/3)
+
+scheme code::
+
+   ;;nummber-of-attendes : number -> number
+   ;;to coumpute the nummber of attendes in ref to the ticket price
+   ;;the function takes the ticket price in dollar.
+   ;;this function applies just for a ticket price <= 5.8 Dollar.
+   (define (nummber-of-attendes ticket-price)
         (/ (- (* ticket-price 100) 580) -2/3)
-)
-``
+   )
 
 Testing
 -------
