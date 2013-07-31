@@ -16,5 +16,11 @@ Task to solve
 Solution
 ========
 
-:
+profit = 4.5x - 20
 
+;;profit: nummber -> nummber
+;;calculate the profit of a event in ref to
+;;the nummber of attendes
+(define (profit attendes)
+  (-(* 4.5 attendes) 20)
+)
