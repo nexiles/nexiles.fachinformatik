@@ -16,7 +16,7 @@ Use the currency table in the newspaper to look up the current exchange rate.
 Solution
 ========
 
-:
+::
 
     >(define (dollar->euro dollar)
      ;1 euro -> 1.2992 us-dollar
